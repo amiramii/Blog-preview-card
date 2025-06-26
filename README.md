@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://blog-preview-card-two-gray.vercel.app/)
+- Live Site URL: [blog-preview-card](https://blog-preview-card-two-gray.vercel.app/)
 
 ## My process
 
